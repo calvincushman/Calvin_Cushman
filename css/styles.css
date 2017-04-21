@@ -36,6 +36,9 @@ body {
   color: #bbcece;
 }
 
+.rowOne h3 {
+  font-family: 'Monda', sans-serif;
+}
 .rowOne img {
   width: 150px;
   max-height:200px;
@@ -48,6 +51,19 @@ body {
    font-family: 'Monda', sans-serif;
    text-align: right;
    margin: 25px;
-   width: 200px;
+   width: 300px;
    float:right;
  }
+
+.zt {
+  padding-left: 360px;
+  color: #bbcece;
+  font-family: 'Monda', sans-serif;
+  text-align: center;
+}
+
+.zt img {
+  border-radius: 50%;
+  max-width: 100px;
+  max-height: 100px;
+}
