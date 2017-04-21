@@ -1,0 +1,12 @@
+body {
+  background-image: url("img/wallpaper.jpeg");
+  background-repeat: no-repeat;
+  background-color: inherit;
+}
+
+#me {
+  max-width: 300px;
+  max-height: auto;
+  border-radius: 100px;
+  float: right;
+}
