@@ -16,10 +16,18 @@ body {
   float: right;
 }
 
+.id {
+  margin-top: 40px;
+}
+
 #nameTag {
   margin-top: 100px;
   float: right;
   font-family: 'Righteous', cursive;
+}
+
+.topBanner {
+  background-color: #579696;
 }
 
 .rowOne {
