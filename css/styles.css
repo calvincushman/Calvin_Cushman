@@ -1,7 +1,7 @@
 body {
-  background-image: url("img/wallpaper.jpeg");
+  background-image: url("https://static.pexels.com/photos/4827/nature-forest-trees-fog.jpeg");
   background-repeat: no-repeat;
-  background-color: #cccccc;
+  background-size: cover;
 }
 
 .body {
@@ -17,7 +17,7 @@ body {
 }
 
 .id {
-  margin-top: 40px;
+  margin-top: 220px;
 }
 
 #nameTag {
