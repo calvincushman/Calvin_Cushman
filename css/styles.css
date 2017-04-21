@@ -24,14 +24,16 @@ body {
 
 .rowOne {
   text-align: center;
+}
+
+.well {
   background-color: #c5b1d8;
-  border-radius: 5px;
-  margin: 20px;
 }
 
 .rowOne img {
-  max-width: 90px;
-  max-height: auto;
-  border-radius: 200px;
+  width: 150px;
+  max-height:200px;
+  border-radius: 25%;
+  border: solid 3px #8a5eb5;
   margin-bottom: 25px;
 }
