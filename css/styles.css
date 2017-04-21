@@ -1,12 +1,22 @@
 body {
   background-image: url("img/wallpaper.jpeg");
   background-repeat: no-repeat;
-  background-color: inherit;
+  background-color: #cccccc;
 }
 
+.body {
+
+}
 #me {
   max-width: 300px;
   max-height: auto;
+  margin: 20px;
   border-radius: 100px;
+  border: solid 5px #445a7c;
+  float: right;
+}
+
+#nameTag {
+  margin-top: 100px;
   float: right;
 }
