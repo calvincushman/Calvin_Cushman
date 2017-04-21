@@ -1,4 +1,15 @@
+body {
+  font-family: 'Monda', sans-serif;
+  padding: 30px;
+  background-image: url("http://www.trucost.com/wp-content/uploads/2016/07/Forest.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 img {
+  border: solid 2px #7f4282;
+  margin: 10px;
+  margin-top: 40px;
   max-width: 300px;
   max-height: auto;
 }
