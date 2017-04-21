@@ -8,7 +8,7 @@ body {
 
 }
 #me {
-  max-width: 300px;
+  max-width: 220px;
   max-height: auto;
   margin: 20px;
   border-radius: 100px;
@@ -19,4 +19,19 @@ body {
 #nameTag {
   margin-top: 100px;
   float: right;
+  font-family: 'Righteous', cursive;
+}
+
+.rowOne {
+  text-align: center;
+  background-color: #c5b1d8;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+.rowOne img {
+  max-width: 90px;
+  max-height: auto;
+  border-radius: 200px;
+  margin-bottom: 25px;
 }
