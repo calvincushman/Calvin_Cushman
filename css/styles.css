@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://static.pexels.com/photos/4827/nature-forest-trees-fog.jpeg");
+  background-image: url("http://68.media.tumblr.com/1cceb33b69cdd60b0444ff8f15567c57/tumblr_n637t39i621r12vu5o1_1280.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -21,6 +21,7 @@ body {
 }
 
 #nameTag {
+  color: #bbcece;
   margin-top: 100px;
   float: right;
   font-family: 'Righteous', cursive;
@@ -32,10 +33,7 @@ body {
 
 .rowOne {
   text-align: center;
-}
-
-.well {
-  background-color: #c5b1d8;
+  color: #bbcece;
 }
 
 .rowOne img {
@@ -45,3 +43,11 @@ body {
   border: solid 3px #8a5eb5;
   margin-bottom: 25px;
 }
+ .aboutMe {
+   color: #bbcece;
+   font-family: 'Monda', sans-serif;
+   text-align: right;
+   margin: 25px;
+   width: 200px;
+   float:right;
+ }
